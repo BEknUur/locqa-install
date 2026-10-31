@@ -3,7 +3,7 @@
 Installs the `locqa` CLI (quality checks for Flutter ARB localizations) on Linux and macOS:
 
 ```sh
-curl -fsSL https://beknuur.github.io/locqa-install/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/BEknUur/locqa-install/main/install.sh | sh
 ```
 
 The script installs [uv](https://docs.astral.sh/uv/) if it's missing, then runs
